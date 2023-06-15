@@ -1,0 +1,734 @@
+IP                   : 2401:4900:1c2a:45f7:1e5f:902e:e3a7:f7ff
+IP Type              : IPv6
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Washim, India, Asia
+GeoLocation(lat, lon): 20.1119123, 77.1312586
+Currency             : Indian Rupee
+
+IP                   : 2401:4900:1c2a:45f7:1e5f:902e:e3a7:f7ff
+IP Type              : IPv6
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Washim, India, Asia
+GeoLocation(lat, lon): 20.1119123, 77.1312586
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.46
+Version              : 10.0;
+Browser              : Chrome
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : WhatsApp/2.23.1.3 A
+Version              : 
+Browser              : Unknown Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : iPhone
+User Agent           : Mozilla/5.0 (iPhone; CPU iPhone OS 16_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Mobile/15E148 Safari/604.1
+Version              : iPhone
+Browser              : Handheld Browser
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.9
+IP Type              : IPv4
+User OS              : Ubuntu
+User Agent           : Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:107.0) Gecko/20100101 Firefox/107.0
+Version              : Linux
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.185.44.155
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.185.44.155
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+IP                   : 223.185.44.155
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.185.44.155
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 100.36.68.231
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : 10.0;
+Browser              : Firefox
+Location             : San Francisco, United States, North America
+GeoLocation(lat, lon): 37.7877759, -122.4503177
+Currency             : US Dollar
+IP                   : 100.36.68.231
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : 10.0;
+Browser              : Firefox
+Location             : San Francisco, United States, North America
+GeoLocation(lat, lon): 37.7877759, -122.4503177
+Currency             : US Dollar
+
+IP                   : 100.36.68.231
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : 10.0;
+Browser              : Firefox
+Location             : San Francisco, United States, North America
+GeoLocation(lat, lon): 37.7877759, -122.4503177
+Currency             : US Dollar
+
+IP                   : 100.36.68.231
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : 10.0;
+Browser              : Firefox
+Location             : San Francisco, United States, North America
+GeoLocation(lat, lon): 37.7877759, -122.4503177
+Currency             : US Dollar
+
+IP                   : 107.178.200.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Focus/1.0 Chrome/59.0.3029.83 Mobile Safari/537.36
+Version              : 10
+Browser              : Handheld Browser
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 107.178.200.199
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Focus/1.0 Chrome/59.0.3029.83 Mobile Safari/537.36
+Version              : 10
+Browser              : Handheld Browser
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 3.101.106.58
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+Version              : 10.0;
+Browser              : Chrome
+Location             : San Jose, United States, North America
+GeoLocation(lat, lon): 37.3382082, -121.8863286
+Currency             : US Dollar
+
+IP                   : 91.90.42.154
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+Version              : 10.0;
+Browser              : Firefox
+Location             : Oslo, Norway, Europe
+GeoLocation(lat, lon): 59.9138688, 10.7522454
+Currency             : Norwegian Krone
+
+IP                   : 107.178.238.59
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+Version              : 10.0;
+Browser              : Chrome
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 107.178.238.59
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43
+Version              : 10.0;
+Browser              : Chrome
+Location             : Mountain View, United States, North America
+GeoLocation(lat, lon): 37.3860517, -122.0838511
+Currency             : US Dollar
+
+IP                   : 93.159.230.88
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Moscow, Russia, Europe
+GeoLocation(lat, lon): 55.755826, 37.6173
+Currency             : Russian Ruble
+
+IP                   : 223.185.44.155
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.211.211
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.211.211
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 223.178.211.61
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 136.185.111.222
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+
+IP                   : 157.39.70.85
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61
+Version              : 10.0;
+Browser              : Chrome
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+
+IP                   : 223.178.210.255
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Jalandhar, India, Asia
+GeoLocation(lat, lon): 31.3260152, 75.5761829
+Currency             : Indian Rupee
+
+IP                   : 223.178.210.169
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 103.18.123.49
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Phagwara, India, Asia
+GeoLocation(lat, lon): 31.2240198, 75.7708013
+Currency             : Indian Rupee
+
+IP                   : 49.44.85.136
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Gorur, India, Asia
+GeoLocation(lat, lon): 12.8230737, 76.0638482
+Currency             : Indian Rupee
+
+IP                   : 174.89.137.100
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.2736841, -75.7372019
+Currency             : Canadian Dollar
+
+IP                   : 103.18.123.49
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Phagwara, India, Asia
+GeoLocation(lat, lon): 31.2240198, 75.7708013
+Currency             : Indian Rupee
+
+IP                   : 174.89.137.100
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.2736841, -75.7372019
+Currency             : Canadian Dollar
+
+IP                   : 49.44.81.8
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+
+IP                   : 142.166.12.199
+IP Type              : IPv4
+User OS              : Windows 7
+User Agent           : Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : 6.1;
+Browser              : Chrome
+Location             : Moncton, Canada, North America
+GeoLocation(lat, lon): 46.0878165, -64.7782313
+Currency             : Canadian Dollar
+
+IP                   : 174.89.137.100
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.2736841, -75.7372019
+Currency             : Canadian Dollar
+
+IP                   : 5.45.207.118
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+Version              : +http://yandex.com/bots
+Browser              : Chrome
+Location             : Moscow, Russia, Europe
+GeoLocation(lat, lon): 55.755826, 37.6173
+Currency             : Russian Ruble
+
+IP                   : 157.55.39.204
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+User Agent           : Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/103.0.5060.134 Safari/537.36
+Version              : like
+Browser              : Chrome
+Location             : Quincy, United States, North America
+GeoLocation(lat, lon): 42.2528772, -71.0022705
+Currency             : US Dollar
+
+IP                   : 174.89.137.100
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.2736841, -75.7372019
+Currency             : Canadian Dollar
+
+IP                   : 223.178.210.169
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 132.154.137.98
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 12) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Mobile Safari/537.36
+Version              : 12
+Browser              : Handheld Browser
+Location             : Batala, India, Asia
+GeoLocation(lat, lon): 31.8183238, 75.2070644
+Currency             : Indian Rupee
+
+IP                   : 223.196.13.5
+IP Type              : IPv4
+User OS              : Windows 7
+User Agent           : Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Version              : 6.1
+Browser              : Chrome
+Location             : Hyderabad, India, Asia
+GeoLocation(lat, lon): 17.385044, 78.486671
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.22
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.22
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 223.178.209.22
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+IP                   : 223.178.209.22
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 74.14.31.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15
+Version              : Mac
+Browser              : Safari
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.4215296, -75.6971931
+Currency             : Canadian Dollar
+
+IP                   : 74.14.31.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15
+Version              : Mac
+Browser              : Safari
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.4215296, -75.6971931
+Currency             : Canadian Dollar
+IP                   : 74.14.31.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15
+Version              : Mac
+Browser              : Safari
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.4215296, -75.6971931
+Currency             : Canadian Dollar
+
+IP                   : 74.14.31.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15
+Version              : Mac
+Browser              : Safari
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.4215296, -75.6971931
+Currency             : Canadian Dollar
+
+IP                   : 223.178.209.22
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Bhopal, India, Asia
+GeoLocation(lat, lon): 23.2599333, 77.412615
+Currency             : Indian Rupee
+
+IP                   : 74.14.31.56
+IP Type              : IPv4
+User OS              : Mac OS X
+User Agent           : Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15
+Version              : Mac
+Browser              : Safari
+Location             : Ottawa, Canada, North America
+GeoLocation(lat, lon): 45.4215296, -75.6971931
+Currency             : Canadian Dollar
+
+IP                   : 106.194.111.208
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Gurugram, India, Asia
+GeoLocation(lat, lon): 28.4594965, 77.0266383
+Currency             : Indian Rupee
+
+IP                   : 157.39.193.65
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 49.44.80.170
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+
+IP                   : 45.117.212.247
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 13; SM-M526B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Mobile Safari/537.36
+Version              : 13;
+Browser              : Handheld Browser
+Location             : Pune, India, Asia
+GeoLocation(lat, lon): 18.5204303, 73.8567437
+Currency             : Indian Rupee
+
+IP                   : 122.161.76.216
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54
+Version              : 10.0;
+Browser              : Chrome
+Location             : New Delhi, India, Asia
+GeoLocation(lat, lon): 28.6139391, 77.2090212
+Currency             : Indian Rupee
+
+IP                   : 157.39.193.65
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 157.39.193.65
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 103.183.33.163
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Gurugram, India, Asia
+GeoLocation(lat, lon): 28.4594965, 77.0266383
+Currency             : Indian Rupee
+
+IP                   : 157.39.193.65
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
+IP                   : 14.139.242.74
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54
+Version              : 10.0;
+Browser              : Chrome
+Location             : Longowal, India, Asia
+GeoLocation(lat, lon): 30.2000946, 75.6755215
+Currency             : Indian Rupee
+
+IP                   : 103.183.33.163
+IP Type              : IPv4
+User OS              : Windows 10
+User Agent           : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+Version              : 10.0;
+Browser              : Chrome
+Location             : Gurugram, India, Asia
+GeoLocation(lat, lon): 28.4594965, 77.0266383
+Currency             : Indian Rupee
+IP                   : 157.50.31.57
+IP Type              : IPv4
+User OS              : Android
+User Agent           : Mozilla/5.0 (Linux; Android 10; SM-A750F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Mobile Safari/537.36
+Version              : 10;
+Browser              : Handheld Browser
+Location             : Navi Mumbai, India, Asia
+GeoLocation(lat, lon): 18.9832829, 73.108491
+Currency             : Indian Rupee
+
+IP                   : 157.39.193.65
+IP Type              : IPv4
+User OS              : Linux
+User Agent           : Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+Version              : x86_64;
+Browser              : Firefox
+Location             : Chandigarh, India, Asia
+GeoLocation(lat, lon): 30.7333148, 76.7794179
+Currency             : Indian Rupee
+
